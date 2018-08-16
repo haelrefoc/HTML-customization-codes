@@ -25,7 +25,6 @@ Library of Codes
   <img src="http://email.understand.com/understand/template/chyah.PNG" alt="Girl from Santa Cruz reminding her pals to hang loose." /><br>
 <p>
   <strong>Videos:</strong><br>
-  Video:<br>
   <video src="http://email.understand.com/understand/template/MVI_3692.MOV" width="320" height="240" controls>
-    Video Not Supported Text
+    Video Not Supported Text (view code to see more details)
       </video>

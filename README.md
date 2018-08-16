@@ -48,5 +48,13 @@ Library of Codes
   Code together:<br>
   a href="LINK">This is a Link /a><br>
   Example:<br>
-  <a href="https://en.wikipedia.org/wiki/Cattle">This link will tell you about Cows</a>
+  <a href="https://en.wikipedia.org/wiki/Cattle">This link will tell you about Cows</a><br>
+  Link to same page:<br>
+  Anchor top of page - p id="top">This is the top of the page! /p><br>
+  Anchor bottom of page - h1 id="bottom">This is the bottom! /h1><br>
+  Wrap text in an anchor that links to a div. Example:<br>
+  div id="bears"><br>
+  XXXXXXXX Bears XXXXXXXX<br>
+  Anchor: a href="#bears">Bears /a>
+  
   
